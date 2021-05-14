@@ -17,5 +17,5 @@ https://github.com/sidbai/aws-sigv4-c#8fc8b7cb9775667e6ac955d37f941cf3e7fe88fb
 - 署名にアップロードに必要の署名HTTPヘッダーを追加(x-amz-content-sha256、x_amz_decoded_content_length)
 
 ## 差分ファイル：
-- \aws_sigv4-c\aws_sigv4.c.html
-- \aws_sigv4-c\aws_sigv4.h.html
+- aws_sigv4.c.html
+- aws_sigv4.h.html
